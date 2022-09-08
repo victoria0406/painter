@@ -14,6 +14,6 @@ export default defineConfig((command, mode)=>{
     },
     server:{
       port: process.env.VITE_PORT
-    }
+    },
   }
 })
